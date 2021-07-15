@@ -8,7 +8,7 @@
     <artifactId>TarasWebApp</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>TarasWebApp</name>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
